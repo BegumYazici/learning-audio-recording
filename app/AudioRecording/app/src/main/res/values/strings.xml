@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Audio Recording</string>
+    <string name="record">Kayıt</string>
+    <string name="stop">Durdur</string>
+</resources>
